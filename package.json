@@ -21,7 +21,7 @@
     "sass": "^1.85.1",
     "standard": "^17.1.2",
     "stylelint": "^16.16.0",
-    "stylelint-config-standard-scss": "^14.0.0",
+    "stylelint-config-standard-scss": "^15.0.1",
     "stylelint-scss": "^6.11.1",
     "stylelint-use-logical": "^2.1.2"
   },
